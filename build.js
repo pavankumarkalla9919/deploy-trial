@@ -1,1 +1,1 @@
-require("fs").writeFileSync("version.txt", "one\n");
+require("fs").writeFileSync("version.txt", "two\n");
